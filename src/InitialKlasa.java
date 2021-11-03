@@ -17,6 +17,5 @@ public class InitialKlasa {
 
     // Difference between HashSet1 and HashSet2
     numbers.removeAll(primeNumbers);
-    System.out.println("Numbers without prime numbers: " + numbers);
     }
 }
